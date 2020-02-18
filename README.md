@@ -1,5 +1,5 @@
 # XO-Game
-![image](https://user-images.githubusercontent.com/57904143/74775618-5e5dd080-5296-11ea-9ebd-7bf898abddd9.png)
+Application's icon: ![image](https://user-images.githubusercontent.com/57904143/74775618-5e5dd080-5296-11ea-9ebd-7bf898abddd9.png)
 
 ![image](https://user-images.githubusercontent.com/57904143/74775491-2060ac80-5296-11ea-87ed-764d716ec3fb.png)
 
